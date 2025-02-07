@@ -1,1 +1,6 @@
-flask
+PIL
+os
+re
+transformers
+azure.ai.inference
+azure.core.credentials
