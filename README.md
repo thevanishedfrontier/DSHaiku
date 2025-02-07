@@ -1,1 +1,1 @@
-This repository was created to host the app on render.
+This project was created to combine image recognition and and LLM capabilites that allow a used to upload a photo, extract the relevant objects via image tagging software, and then prompts DeepSeek-R1 to generate a haiku about the photo's contents. The end goal of the project is to host a flask app on render so that anyone can can utilize the project regardless of their python capabilities or access to deepseek. The jupyter notebook is included as a proof of concept to be run on a local image from the user's machine. 
